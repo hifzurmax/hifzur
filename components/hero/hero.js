@@ -20,8 +20,9 @@ const Hero = () => {
                   </div>
                   <div data-swiper-parallax="400" className="slide-text">
                     <p>
-                      Must explain to how all this mistaken idea denouncing
-                      pleasure pain the system and expound the actua.
+                      Expert in WordPress, Wix, and Webflow, I craft websites
+                      with precision, merging design and functionality to
+                      deliver seamless user experiences across platforms.
                     </p>
                   </div>
                   <div className="clearfix"></div>
