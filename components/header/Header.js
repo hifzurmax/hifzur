@@ -40,7 +40,7 @@ const Header = (props) => {
                   <ul className="nav navbar-nav mb-2 mb-lg-0">
                     <li className="menu-item-has-children">
                       <a href="/">Home</a>
-                      <ul className="sub-menu">
+                      {/* <ul className="sub-menu">
                         <li>
                           <NavLink className="active" href="/">
                             Home Style 1
@@ -52,7 +52,7 @@ const Header = (props) => {
                         <li>
                           <NavLink href="/home3">Home Style 3</NavLink>
                         </li>
-                      </ul>
+                      </ul> */}
                     </li>
                     <li>
                       <Link
